@@ -1,0 +1,1698 @@
+{
+    "zephyr-7b-beta.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        }
+    ],
+    "zephyr-7b-alpha.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        }
+    ],
+    "mistral-7b-instruct-v0.2.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        }
+    ],
+    "llama-2-7b-chat.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        }
+    ],
+    "openhermes-2.5-mistral-7b.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        }
+    ],
+    "Meta-Llama-3-8B-Instruct.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": true,
+            "numberOfFields": 6,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        }
+    ],
+    "mistral-7b-openorca.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        }
+    ],
+    "Meta-Llama-3-8B.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 23,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        }
+    ]
+}
