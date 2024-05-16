@@ -13,7 +13,8 @@ def print_products(products):
             "name": product["name"],
             "image_url": product["gallery"][0]["large_image_url"],
             "days_to_delivery": product["days_to_delivery"],
-            "price": f'{product["prices"][0]["amount"]} {product["prices"][0]["currency_symbol"]}'
+            "price": f'{product["prices"][0]["amount"]} {product["prices"][0]["currency_symbol"]}',
+            "url": f"https://www.emmezeta.hr/{product['canonical_url']}"
         }
         product_details.append(details)
     return product_details
@@ -42,7 +43,8 @@ def display_response(response_json):
     for product in response_json["products"]:
         message += f"Name: {product['name']}\n"
         message += f"Days to delivery: {product['days_to_delivery']} days\n"
-        message += f"Price: {product['price']}\n\n"
+        message += f"Price: {product['price']}\n"
+        message += f"URL: {product['url']}\n\n"
     return message
 
 def get_images(response_json):

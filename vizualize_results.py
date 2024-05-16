@@ -62,7 +62,7 @@ def plot_stacked_bar_chart(results):
     plt.show()
 
 
-with open('results_2024-05-15_18-52-09.json') as file:
+with open('results_2024-05-16_02-37-55.json') as file:
     json_data = json.load(file)
 
 results = categorize_results(json_data)

@@ -1,0 +1,3410 @@
+{
+    "zephyr-7b-beta.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": {
+                "fetchSize": 20,
+                "width": "200-250",
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "cost": "1000-2000"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "yellow"
+                ],
+                "width": "<238",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc",
+                "height": "<120"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "sortField": "name",
+                "sortDir": "asc",
+                "cost": "<1050"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ],
+                "width": "<223"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "white"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": {
+                "fetchSize": 15,
+                "cost": "<",
+                "width": "150-270",
+                "height": "90-120",
+                "colors": [
+                    "light brown",
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "width": ">200-250",
+                "colors": [
+                    "black",
+                    "white"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "sortField": "popular",
+                "sortDir": "desc",
+                "colors": [
+                    "gray",
+                    "beige"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "width": "<180",
+                "height": "<100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "cost",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": {
+                "width": "220-280",
+                "sortField": "name",
+                "sortDir": "desc",
+                "cost": ">500"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "sortField": "cost",
+                "sortDir": "desc",
+                "width": "<300"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "cost": "615-1250",
+                "height": "100-140",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ],
+                "sortField": "cost",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "sortField": "popular",
+                "sortDir": "desc",
+                "colors": [
+                    "red",
+                    "orange"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "black"
+                ],
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "colors": [
+                    "light gray",
+                    "beige"
+                ],
+                "width": "<240",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        }
+    ],
+    "zephyr-7b-alpha.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": {
+                "fetchSize": 20,
+                "width": ">200&<250",
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "cost": "1000-2000"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "yellow"
+                ],
+                "width": "<238",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc",
+                "height": "<120"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "cost": "<1050",
+                "sortField": "name",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ],
+                "width": "<223"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "white"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": {
+                "fetchSize": 15,
+                "width": "150-270",
+                "height": "90-120",
+                "colors": [
+                    "light brown",
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "width": ">200&<250",
+                "colors": [
+                    "black",
+                    "white"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "popularity": "desc",
+                "colors": [
+                    "gray",
+                    "beige"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "width": "<180",
+                "height": "<100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "220-280",
+                "sortField": "name",
+                "sortDir": "desc",
+                "cost": ">500"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "white",
+                    "cream"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "fetchSize": 10,
+                "cost": ">2500",
+                "width": "<300"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "height": "100-140",
+                "cost": "615-1250",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "cost": "min",
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "sortField": "popular",
+                "sortDir": "desc",
+                "colors": [
+                    "red",
+                    "orange"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "black"
+                ],
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "colors": [
+                    "light gray",
+                    "beige"
+                ],
+                "width": "<=240",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        }
+    ],
+    "mistral-7b-instruct-v0.2.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": {
+                "fetchSize": 20,
+                "cost": "1000-2000",
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "width": "200-250"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "yellow"
+                ],
+                "width": "<238",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "height": "<120",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "cost": "<1050",
+                "sortField": "name",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "<=223",
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "white"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": {
+                "fetchSize": 15,
+                "width": "150-270",
+                "height": "90-120",
+                "colors": [
+                    "light brown",
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "width": "200-250",
+                "colors": [
+                    "black",
+                    "white"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "colors": [
+                    "gray",
+                    "beige"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "fetchSize": -1,
+                "width": "<=180",
+                "height": "<=100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": {
+                "fetchSize": null,
+                "width": "220-280",
+                "sortField": "name",
+                "sortDir": "desc",
+                "cost": ">500"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": {
+                "fetchSize": -1,
+                "colors": [
+                    "white",
+                    "cream"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "fetchSize": -1,
+                "width": "<300",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "height": "100-140",
+                "cost": "615-1250",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "color": [
+                    "black"
+                ],
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "colors": [
+                    "light gray",
+                    "beige"
+                ],
+                "width": "<240"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        }
+    ],
+    "llama-2-7b-chat.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": {
+                "fetchSize": 20,
+                "width": ">200 & <250",
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "cost": "1000-2000",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "fetchSize": 1,
+                "width": ">238",
+                "colors": [
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "popular": true,
+                "width": "<120",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "cost": "<1050",
+                "sortField": "name",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ],
+                "width": "<223"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "white"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "cost": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": {
+                "fetchSize": 15,
+                "width": "150-270",
+                "height": "90-120",
+                "colors": [
+                    "lightBrown",
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "fetchSize": 0,
+                "width": ">200 & <250",
+                "colors": [
+                    "black",
+                    "white"
+                ],
+                "sortField": null,
+                "sortDir": null
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "color": "red",
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "colors": [
+                    "gray",
+                    "beige"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "<180",
+                "height": "<100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "220-280",
+                "cost": ">500",
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": {
+                "fetchSize": 5,
+                "colors": [
+                    "white",
+                    "cream"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "<300",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "height": "100-140",
+                "cost": "615-1250",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy",
+                    "dark green"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "cost": "<inf"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "color": "black",
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "color": [
+                    "lightgray",
+                    "beige"
+                ],
+                "width": "<240",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        }
+    ],
+    "openhermes-2.5-mistral-7b.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "yellow"
+                ],
+                "width": "<238"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "height": "<120",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "cost": "<1050",
+                "sortField": "name",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ],
+                "width": "<223"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": {
+                "fetchSize": 15,
+                "width": "150-270",
+                "height": "90-120",
+                "colors": [
+                    "light brown",
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "width": "200-250",
+                "colors": [
+                    "black",
+                    "white"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "colors": [
+                    "gray",
+                    "beige"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "width": "<180",
+                "height": "<100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": {
+                "width": "220-280",
+                "sortField": "name",
+                "sortDir": "desc",
+                "cost": ">500"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "white",
+                    "cream"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "fetchSize": null,
+                "width": "<300",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "height": "100-140",
+                "cost": "615-1250",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "cost": "<0"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "black"
+                ],
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "colors": [
+                    "light gray",
+                    "beige"
+                ],
+                "width": "<240",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        }
+    ],
+    "Meta-Llama-3-8B-Instruct.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 3,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 5,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 4,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 5,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "height": "<=120",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "sortField": "name",
+                "sortDir": "asc",
+                "cost": "<1050"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ],
+                "width": "<223"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "white"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 6,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "width": ">200-250",
+                "colors": [
+                    "black",
+                    "white"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "colors": [
+                    "gray",
+                    "beige"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "fetchSize": -1,
+                "width": "<=180",
+                "height": "<=100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "fetchSize": null,
+                "width": "<300",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "height": "100-140",
+                "cost": "615-1250",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "popular": true,
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "black"
+                ],
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 5,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        }
+    ],
+    "mistral-7b-openorca.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": {
+                "fetchSize": 5,
+                "width": "200-250",
+                "height": "<130",
+                "colors": [
+                    "blue",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 2,
+            "actualJSON": {
+                "fetchSize": 20,
+                "width": "200-250",
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "cost": "1000-2000"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "cost": "",
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "colors": [
+                    "yellow"
+                ],
+                "width": "<238"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc",
+                "height": "<120"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "cost": "<1050",
+                "sortField": "name",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "black",
+                    "green",
+                    "blue",
+                    "brown"
+                ],
+                "width": "<223"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 11,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "white"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": {
+                "fetchSize": 15,
+                "cost": "",
+                "width": "150-270",
+                "height": "90-120",
+                "colors": [
+                    "light brown",
+                    "yellow"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 6,
+            "matchingFields": 6,
+            "error": null
+        },
+        {
+            "question_id": 14,
+            "actualJSON": {
+                "width": ">200-250",
+                "colors": [
+                    "black",
+                    "white"
+                ]
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 2,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "colors": [
+                    "gray",
+                    "beige"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "width": "<180",
+                "height": "<100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": {
+                "width": "220-280",
+                "sortField": "name",
+                "sortDir": "desc",
+                "cost": ">500"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "white",
+                    "cream"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "cost": ">1000",
+                "width": "<300"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 1,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "height": "100-140",
+                "cost": "615-1250",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "cost": ">",
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "cost": "<min",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "cost": "min",
+                "colors": [
+                    "black"
+                ],
+                "width": ">180"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "colors": [
+                    "light gray",
+                    "beige"
+                ],
+                "width": "<240",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        }
+    ],
+    "Meta-Llama-3-8B.Q5_K_M.gguf": [
+        {
+            "question_id": 1,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 6,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 2,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 3,
+            "actualJSON": {
+                "fetchSize": 10,
+                "width": "150-270",
+                "colors": [
+                    "red",
+                    "gray"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 4,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "yellow"
+                ],
+                "width": "<=238",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 5,
+            "actualJSON": {
+                "fetchSize": 3,
+                "colors": [
+                    "blue",
+                    "dark blue"
+                ],
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 6,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 7,
+            "actualJSON": {
+                "fetchSize": 10,
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 8,
+            "actualJSON": {
+                "fetchSize": 10,
+                "height": "<=120",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 9,
+            "actualJSON": {
+                "fetchSize": 20,
+                "sortField": "name",
+                "sortDir": "asc",
+                "cost": "<1050"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 10,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 11,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 12,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 2,
+            "error": null
+        },
+        {
+            "question_id": 13,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 6,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 14,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 2,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 15,
+            "actualJSON": {
+                "fetchSize": 10,
+                "colors": [
+                    "red"
+                ],
+                "sortField": "name",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 16,
+            "actualJSON": {
+                "fetchSize": 5,
+                "popular": true,
+                "colors": [
+                    "gray",
+                    "beige"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 17,
+            "actualJSON": {
+                "fetchSize": 1,
+                "width": "<180",
+                "height": "<100",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 18,
+            "actualJSON": {
+                "fetchSize": 7,
+                "colors": [
+                    "green",
+                    "blue"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 19,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 4,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 20,
+            "actualJSON": {
+                "fetchSize": 12,
+                "height": "<150",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 21,
+            "actualJSON": null,
+            "unparseableJSON": true,
+            "numberOfFields": 3,
+            "matchingFields": 0,
+            "error": "JSON is not parseable"
+        },
+        {
+            "question_id": 22,
+            "actualJSON": {
+                "fetchSize": null,
+                "width": "<300",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 23,
+            "actualJSON": {
+                "fetchSize": 8,
+                "cost": "615-1250",
+                "height": "100-140",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 24,
+            "actualJSON": {
+                "fetchSize": 6,
+                "colors": [
+                    "navy blue",
+                    "dark green"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 25,
+            "actualJSON": {
+                "fetchSize": 3,
+                "width": "<200",
+                "sortField": "price",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 26,
+            "actualJSON": {
+                "fetchSize": 1,
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 3,
+            "matchingFields": 3,
+            "error": null
+        },
+        {
+            "question_id": 27,
+            "actualJSON": {
+                "fetchSize": 15,
+                "colors": [
+                    "red",
+                    "orange"
+                ],
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 4,
+            "matchingFields": 4,
+            "error": null
+        },
+        {
+            "question_id": 28,
+            "actualJSON": {
+                "fetchSize": 6,
+                "width": "210-260",
+                "height": "<110",
+                "sortField": "popular",
+                "sortDir": "desc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 29,
+            "actualJSON": {
+                "fetchSize": 1,
+                "colors": [
+                    "black"
+                ],
+                "width": ">180",
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 5,
+            "error": null
+        },
+        {
+            "question_id": 30,
+            "actualJSON": {
+                "fetchSize": 4,
+                "width": "<=240",
+                "colors": [
+                    "light gray",
+                    "beige"
+                ],
+                "sortField": "price",
+                "sortDir": "asc"
+            },
+            "unparseableJSON": false,
+            "numberOfFields": 5,
+            "matchingFields": 4,
+            "error": null
+        }
+    ]
+}

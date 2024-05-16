@@ -19,7 +19,7 @@ def validate_json(parsed_json):
 
     if 'fetchSize' in parsed_json.keys():
         if not isinstance(parsed_json['fetchSize'], int) or parsed_json['fetchSize'] <= 0:
-            parsed_json_copy['fetchSize'] = 12
+            parsed_json_copy['fetchSize'] = 20
 
     if 'sortDir' in parsed_json.keys():
         if parsed_json['sortDir'].lower() == 'asc':
@@ -67,6 +67,7 @@ def validate_json(parsed_json):
             parsed_json_copy.pop('cost')
         else:
             parsed_json_copy['price'] = cost[0] + '-' + cost[1]
+            parsed_json_copy.pop('cost')
 
     if 'height' in parsed_json.keys():
         height = parsed_json['height']

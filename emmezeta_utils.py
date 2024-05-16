@@ -28,6 +28,7 @@ color_mappings = {
     "green": "Zelena",
     "pink": "Roza",
     "brown": "Smeda",
+    "white": "Bijela",
     "yellow": "Žuta",
     "purple": "Ljubičasta",
     "pastel blue": "Pastelna plava",
